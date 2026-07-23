@@ -1,8 +1,22 @@
 aid: adalah-for-it-systems-llc
 name: Adalah for IT Systems LLC
-description: Adalah for IT Systems LLC is a company surfaced as a portfolio company of 500-global and
-  added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: Adalah for IT Systems LLC operates Qanoniah, a Saudi Arabian legal technology platform that
+  enables companies to access, understand, and act on the latest and most accurate legal information and
+  procedures in seconds. The AI-driven service targets legal and compliance teams across Saudi Arabia.
+  Backed by 500 Global, the company is tracked in the API Evangelist network; no public API or developer
+  surface has been discovered to date.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://qanoniah.com/og_image.png
 url: https://raw.githubusercontent.com/api-evangelist/adalah-for-it-systems-llc/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,9 +26,15 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Legal
+- Legal Tech
+- Artificial Intelligence
+- Compliance
+- SaaS
+- Saudi Arabia
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,3 +44,26 @@ maintainers:
 common:
 - type: Website
   url: https://qanoniah.com
+- type: Blog
+  url: https://blog.qanoniah.com
+- type: Support
+  url: https://qanoniah.com/ContactUs
+- type: SignUp
+  url: https://qanoniah.com/Register
+- type: Login
+  url: https://qanoniah.com/Login
+- type: PrivacyPolicy
+  url: https://qanoniah.com/PrivacyPolicy
+- type: TermsOfService
+  url: https://qanoniah.com/UsagePolicy
+- type: LinkedIn
+  url: https://www.linkedin.com/company/qanoniah
+- type: Twitter
+  url: https://x.com/qanoniah
+- type: DomainSecurity
+  url: security/adalah-for-it-systems-llc-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
