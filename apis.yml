@@ -5,6 +5,17 @@ description: Adalah for IT Systems LLC operates Qanoniah, a Saudi Arabian legal 
   procedures in seconds. The AI-driven service targets legal and compliance teams across Saudi Arabia.
   Backed by 500 Global, the company is tracked in the API Evangelist network; no public API or developer
   surface has been discovered to date.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
