@@ -29,6 +29,9 @@ accessModel:
   method: derived
 image: https://qanoniah.com/og_image.png
 url: https://raw.githubusercontent.com/api-evangelist/adalah-for-it-systems-llc/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "Backed by 500 Global, the company is tracked in the API Evangelist network; no public API or developer surface has been discovered to date."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
