@@ -1,5 +1,5 @@
 aid: adalah-for-it-systems-llc
-name: Adalah for IT Systems LLC
+name: Qanoniah
 description: Adalah for IT Systems LLC operates Qanoniah, a Saudi Arabian legal technology platform that
   enables companies to access, understand, and act on the latest and most accurate legal information and
   procedures in seconds. The AI-driven service targets legal and compliance teams across Saudi Arabia.
@@ -89,3 +89,4 @@ x-enrichment:
   status: backfilled
   pass: local-v1
   note: backfilled from .gitignore signal + verified work evidence
+x-legal-name: Adalah for IT Systems LLC
